@@ -1,6 +1,6 @@
 import logo from '../assets/react-icon-small.png';
 export default function Navbar() {
-    return(
+    return( 
         <nav>
             <img className='nav--icon' src={logo} alt="404" />
             <h3 className='nav--logo_text'>ReactFacts</h3>
